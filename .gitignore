@@ -1,0 +1,23 @@
+# Ignore everything by default
+/*
+!.gitignore
+
+# Allow your project and asset folders
+!/AddingSprites2/
+!/README.md
+!/SFML Project Game1/
+!/sfml2.5.1/
+
+# --- CRITICAL: Ignore Visual Studio & Build artifacts inside those folders ---
+# This overrides the allow rules above for temporary files
+**/.vs/
+**/Debug/
+**/Release/
+**/x64/
+**/ipch/
+*.aps
+*.odl
+*.obj
+*.pdb
+*.ilk
+*.exe
