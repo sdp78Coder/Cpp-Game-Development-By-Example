@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(7,38): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(7,38): warning C4244:         with
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(7,38): warning C4244:         [
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(7,38): warning C4244:             T=float
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(7,38): warning C4244:         ]
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(7,26): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(7,26): warning C4244:         with
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(7,26): warning C4244:         [
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(7,26): warning C4244:             T=float
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(7,26): warning C4244:         ]
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(33,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(33,79): warning C4244:         with
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(33,79): warning C4244:         [
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(33,79): warning C4244:             T=unsigned int
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(33,79): warning C4244:         ]
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(33,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(33,50): warning C4244:         with
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(33,50): warning C4244:         [
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(33,50): warning C4244:             T=unsigned int
+C:\Users\sergio\source\repos\AddingSprites2\main.cpp(33,50): warning C4244:         ]
+  AddingSprites2.vcxproj -> C:\Users\sergio\source\repos\AddingSprites2\x64\Debug\AddingSprites2.exe
